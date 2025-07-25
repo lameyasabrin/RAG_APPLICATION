@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 """
-Clean Multilingual RAG Pipeline - Fixed Version
-Author: AI Assistant
-Version: 2.1 (Properly Fixed)
 """
 
 import os
