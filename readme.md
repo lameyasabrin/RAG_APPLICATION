@@ -35,7 +35,7 @@ A complete **Retrieval-Augmented Generation (RAG)** pipeline that supports both 
 
 ```bash
 # Clone the repository
-[git clone https://github.com/yourusername/multilingual-rag-system.git](https://github.com/lameyasabrin/RAG_APPLICATION.git)
+git clone https://github.com/lameyasabrin/RAG_APPLICATION.git
 cd multilingual-rag-system
 
 # Install dependencies
